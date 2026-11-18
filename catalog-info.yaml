@@ -8,6 +8,7 @@ metadata:
   description: "zabbix-2-pdf-report (karlipegomes)"
   annotations:
     github.com/project-slug: karlipegomes/zabbix-2-pdf-report
+  tags: [zabbix, python]
   links:
     - url: https://github.com/karlipegomes/zabbix-2-pdf-report
       title: Repository
@@ -24,7 +25,7 @@ metadata:
   description: "zabbix-2-pdf-report (karlipegomes)"
   annotations:
     github.com/project-slug: karlipegomes/zabbix-2-pdf-report
-  tags: [python]
+  tags: [python, zabbix]
 spec:
   type: tool
   lifecycle: deprecated
